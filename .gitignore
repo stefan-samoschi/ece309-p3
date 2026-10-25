@@ -1,0 +1,9 @@
+build/
+build-linux/
+build-mingw/
+*.o
+*.obj
+*.exe
+*.out
+.vscode/
+.DS_Store
