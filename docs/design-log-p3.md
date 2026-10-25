@@ -1,5 +1,5 @@
 # Project 3 Design Log
-**Author:** Stefan · **P2 code used:** instructor reference  
+**Author:** Stefan · **P2 code used:** instructor reference from the code provided
 **Tools used:** VS Code file tools, CMake, WinLibs MinGW GCC for compilation validation, and the project spec as the design reference.
 
 ## 1. Hash table
